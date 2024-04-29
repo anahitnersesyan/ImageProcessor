@@ -1,0 +1,5 @@
+C:\Users\PC\source\repos\ImageProcessor\ImageProcessor\obj\Debug\net6.0\ImageProcessor.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ImageProcessor\ImageProcessor\obj\Debug\net6.0\ImageProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ImageProcessor\ImageProcessor\obj\Debug\net6.0\ImageProcessor.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ImageProcessor\ImageProcessor\obj\Debug\net6.0\ImageProcessor.AssemblyInfo.cs
+C:\Users\PC\source\repos\ImageProcessor\ImageProcessor\obj\Debug\net6.0\ImageProcessor.csproj.CoreCompileInputs.cache
